@@ -1,4 +1,4 @@
-### My WakaTime Stats
+## 🏆 My Development Stats
+<!-- waka start -->
+<!-- waka end -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
