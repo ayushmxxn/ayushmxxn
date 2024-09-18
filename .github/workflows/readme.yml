@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    
+    # Runs daily at midnight IST
     - cron: '30 18 * * *'
   workflow_dispatch:
 
@@ -19,4 +19,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "waka"  
+          SECTION_NAME: "waka"  # This should match the comment in your README
