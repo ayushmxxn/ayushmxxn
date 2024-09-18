@@ -8,35 +8,39 @@
 
 ## 🛠️ Skills
 
+## 🛠️ My Skills
+
+### Technologies I Use:
+
 <!-- HTML -->
-![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="filter: invert(1);">
 
 <!-- CSS -->
-![CSS](https://img.shields.io/badge/CSS-FFFFFF?style=flat&logo=css3&logoColor=1572B6) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="filter: invert(1);">
 
 <!-- Tailwind CSS -->
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat&logo=tailwindcss&logoColor=38BDF8)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" style="filter: invert(1);">
 
 <!-- JavaScript -->
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="filter: invert(1);">
 
 <!-- TypeScript -->
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=3178C6)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="filter: invert(1);">
 
 <!-- React -->
-![React](https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="filter: invert(1);">
 
 <!-- Next.js -->
-![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=next.js&logoColor=000000)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="filter: invert(1);">
 
 <!-- Git -->
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="filter: invert(1);">
 
 <!-- GitHub -->
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);">
 
 <!-- Framer Motion -->
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FFFFFF?style=flat&logo=framer&logoColor=000000)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original-wordmark.svg" alt="Framer Motion" width="40" height="40" style="filter: invert(1);">
 
 
 
