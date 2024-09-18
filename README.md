@@ -8,18 +8,35 @@
 
 ## 🛠️ Skills
 
-| Technology        | Icon                                                                                           |
-|-------------------|------------------------------------------------------------------------------------------------|
-| HTML              | ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26)       |
-| CSS               | ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6)          |
-| Tailwind CSS      | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwindcss&logoColor=38BDF8) |
-| JavaScript        | ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E) |
-| TypeScript        | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6) |
-| React             | ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)     |
-| Next.js           | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=000000)|
-| Git               | ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)           |
-| GitHub             | ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff)  |
-| Framer Motion     | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat&logo=framer&logoColor=000000) |
+<!-- HTML -->
+![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) 
+
+<!-- CSS -->
+![CSS](https://img.shields.io/badge/CSS-FFFFFF?style=flat&logo=css3&logoColor=1572B6) 
+
+<!-- Tailwind CSS -->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat&logo=tailwindcss&logoColor=38BDF8)
+
+<!-- JavaScript -->
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)
+
+<!-- TypeScript -->
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=3178C6)
+
+<!-- React -->
+![React](https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
+
+<!-- Next.js -->
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=next.js&logoColor=000000)
+
+<!-- Git -->
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
+
+<!-- GitHub -->
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
+
+<!-- Framer Motion -->
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FFFFFF?style=flat&logo=framer&logoColor=000000)
 
 
 
