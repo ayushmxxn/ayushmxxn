@@ -1,62 +1,44 @@
-name: "Profile Readme Development Stats"
+name: Update Profile README with Dev Metrics
 
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main  
+  schedule:
+    - cron: '0 0 * * *'  
 
 jobs:
-  update-readme:
+  update-dev-metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Run Dev Metrics Action
+        uses: wakareadmestats/waka-readme-stats@master
         with:
-          node-version: '16'
-
-      - name: Run Profile Readme Development Stats
-        uses: docker://wakareadmestats/waka-readme-stats:master
-        env:
-          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          INPUT_SECTION_NAME: "waka"  # Example value, adjust as needed
-          INPUT_PULL_BRANCH_NAME: ""
-          INPUT_PUSH_BRANCH_NAME: ""
-          INPUT_SHOW_OS: "True"
-          INPUT_SHOW_PROJECTS: "True"
-          INPUT_SHOW_EDITORS: "True"
-          INPUT_SHOW_TIMEZONE: "True"
-          INPUT_SHOW_COMMIT: "True"
-          INPUT_SHOW_LANGUAGE: "True"
-          INPUT_SHOW_LINES_OF_CODE: "False"
-          INPUT_SHOW_LANGUAGE_PER_REPO: "True"
-          INPUT_SHOW_LOC_CHART: "True"
-          INPUT_SHOW_DAYS_OF_WEEK: "True"
-          INPUT_SHOW_PROFILE_VIEWS: "True"
-          INPUT_SHOW_SHORT_INFO: "True"
-          INPUT_SHOW_UPDATED_DATE: "True"
-          INPUT_SHOW_TOTAL_CODE_TIME: "True"
-          INPUT_COMMIT_BY_ME: "False"
-          INPUT_COMMIT_MESSAGE: "Updated with Dev Metrics"
-          INPUT_COMMIT_USERNAME: ""
-          INPUT_COMMIT_EMAIL: ""
-          INPUT_COMMIT_SINGLE: "False"
-          INPUT_LOCALE: "en"
-          INPUT_UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
-          INPUT_IGNORED_REPOS: ""
-          INPUT_SYMBOL_VERSION: "1"
-          INPUT_DEBUG_LOGGING: "false"
-
-      - name: Commit changes
-        if: success() && steps.stats.outputs.stats_updated == 'true'
-        run: |
-          git config --global user.name "${{ inputs.COMMIT_USERNAME }}"
-          git config --global user.email "${{ inputs.COMMIT_EMAIL }}"
-          git add README.md
-          git commit -m "${{ inputs.COMMIT_MESSAGE }}"
-          git push
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: "my-development-stats" 
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
+          COMMIT_SINGLE: "False"
+          LOCALE: "en"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          IGNORED_REPOS: ""
+          SYMBOL_VERSION: "1"
+          DEBUG_LOGGING: "false"
