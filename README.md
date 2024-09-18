@@ -8,16 +8,37 @@
 
 ## Skills
 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%232F7EEA?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2300F6FF?style=flat-square&logo=framer&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
+</a>
+<a href="https://www.framer.com/api/motion/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original-wordmark.svg" alt="Framer Motion" width="50" height="50"/>
+</a>
+
 
 
 📊 **This Week I Spent My Time On** 
