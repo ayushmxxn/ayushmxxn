@@ -1,9 +1,6 @@
 name: "Profile Readme Development Stats"
 author: Ayushmaan Singh
-description: |
-  Are you an early 🐤 or a night 🦉? 
-  When are you most productive during the day? 
-  Let's check out in your README!
+description: "Are you an early 🐤 or a night 🦉? When are you most productive during the day? Let's check out in your readme!"
 
 inputs:
   GH_TOKEN:
@@ -22,138 +19,181 @@ inputs:
     default: "waka"
 
   PULL_BRANCH_NAME:
-    description: "Branch to pull the README from"
     required: false
-    default: "main"
+    description: "Branch to pull the README from"
+    default: ""
 
   PUSH_BRANCH_NAME:
-    description: "Branch to push the updated README to"
     required: false
-    default: "main"
+    description: "Branch to push the updated README to"
+    default: ""
 
   SHOW_OS:
-    description: "Display the list of OS used in the dev metrics"
     required: false
+    description: "Display the list of OS used in the dev metrics"
     default: "True"
 
   SHOW_PROJECTS:
-    description: "Display the list of projects worked on in the dev metrics"
     required: false
+    description: "Display the list of projects worked on in the dev metrics"
     default: "True"
 
   SHOW_EDITORS:
-    description: "Display the editors used in the dev metrics"
     required: false
+    description: "Display the editors used in the dev metrics"
     default: "True"
 
   SHOW_TIMEZONE:
-    description: "Display the time zone in the dev metrics"
     required: false
+    description: "Display the time zone in the dev metrics"
     default: "True"
 
   SHOW_COMMIT:
-    description: "Show the number of commits in the dev metrics"
     required: false
+    description: "Show the number of commits in the dev metrics"
     default: "True"
 
   SHOW_LANGUAGE:
-    description: "Show the coding languages used in the dev metrics"
     required: false
+    description: "Show the coding languages used in the dev metrics"
     default: "True"
 
   SHOW_LINES_OF_CODE:
-    description: "Show the total lines of code written till date"
     required: false
+    description: "Show the total lines of code written till date"
     default: "False"
 
   SHOW_LANGUAGE_PER_REPO:
-    description: "Display the language or framework used across repositories"
     required: false
+    description: "Display the language or framework used across repositories"
     default: "True"
 
   SHOW_LOC_CHART:
-    description: "Show lines of code chart"
     required: false
+    description: "Show lines of code chart"
     default: "True"
 
   SHOW_DAYS_OF_WEEK:
-    description: "Display the day of the week when you are most productive"
     required: false
+    description: "Display the day of the week when you are most productive"
     default: "True"
 
   SHOW_PROFILE_VIEWS:
-    description: "Show your GitHub profile views count"
     required: false
+    description: "Show your GitHub profile views count"
     default: "True"
 
   SHOW_SHORT_INFO:
-    description: "Show short facts (fun facts about your profile)"
     required: false
+    description: "Show short facts (fun facts about your profile)"
     default: "True"
 
   SHOW_UPDATED_DATE:
-    description: "Display the last updated date of your README"
     required: false
+    description: "Display the last updated date of your README"
     default: "True"
 
   SHOW_TOTAL_CODE_TIME:
-    description: "Show the total time spent coding"
     required: false
+    description: "Show the total time spent coding"
     default: "True"
 
   COMMIT_BY_ME:
-    description: "Commit the changes with your name and email"
     required: false
+    description: "Commit the changes with your name and email"
     default: "False"
 
   COMMIT_MESSAGE:
-    description: "Custom git commit message"
     required: false
+    description: "Custom git commit message"
     default: "Updated with Dev Metrics"
 
   COMMIT_USERNAME:
-    description: "Custom git commit username"
     required: false
+    description: "Custom git commit username"
     default: ""
 
   COMMIT_EMAIL:
-    description: "Custom git commit email"
     required: false
+    description: "Custom git commit email"
     default: ""
 
   COMMIT_SINGLE:
-    description: "Erase commit history and make a single commit on each update"
     required: false
+    description: "Erase commit history and make a single commit on each update"
     default: "False"
 
   LOCALE:
-    description: "Locale for displaying stats in your preferred language"
     required: false
+    description: "Locale for displaying stats in your preferred language"
     default: "en"
 
   UPDATED_DATE_FORMAT:
-    description: "Format for the last updated date"
     required: false
+    description: "Format for the last updated date"
     default: "%d/%m/%Y %H:%M:%S"
 
   IGNORED_REPOS:
-    description: "List of repositories to ignore when gathering stats"
     required: false
+    description: "List of repositories to ignore when gathering stats"
     default: ""
 
   SYMBOL_VERSION:
-    description: "Version for the symbol used in the progress bar"
     required: false
+    description: "Version for the symbol used in the progress bar"
     default: "1"
 
   DEBUG_LOGGING:
-    description: "Enable or disable action debug logging"
     required: false
+    description: "Enable or disable action debug logging"
     default: "false"
 
-runs:
-  using: "docker"
-  image: "docker://wakareadmestats/waka-readme-stats:master"
+# Add your event trigger (e.g., on push or schedule) here
+on:
+  push:
+    branches:
+      - main # Change this to your branch if needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run the Readme Stats Action
+        uses: docker://wakareadmestats/waka-readme-stats:master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: ${{ inputs.SECTION_NAME }}
+          PULL_BRANCH_NAME: ${{ inputs.PULL_BRANCH_NAME }}
+          PUSH_BRANCH_NAME: ${{ inputs.PUSH_BRANCH_NAME }}
+          SHOW_OS: ${{ inputs.SHOW_OS }}
+          SHOW_PROJECTS: ${{ inputs.SHOW_PROJECTS }}
+          SHOW_EDITORS: ${{ inputs.SHOW_EDITORS }}
+          SHOW_TIMEZONE: ${{ inputs.SHOW_TIMEZONE }}
+          SHOW_COMMIT: ${{ inputs.SHOW_COMMIT }}
+          SHOW_LANGUAGE: ${{ inputs.SHOW_LANGUAGE }}
+          SHOW_LINES_OF_CODE: ${{ inputs.SHOW_LINES_OF_CODE }}
+          SHOW_LANGUAGE_PER_REPO: ${{ inputs.SHOW_LANGUAGE_PER_REPO }}
+          SHOW_LOC_CHART: ${{ inputs.SHOW_LOC_CHART }}
+          SHOW_DAYS_OF_WEEK: ${{ inputs.SHOW_DAYS_OF_WEEK }}
+          SHOW_PROFILE_VIEWS: ${{ inputs.SHOW_PROFILE_VIEWS }}
+          SHOW_SHORT_INFO: ${{ inputs.SHOW_SHORT_INFO }}
+          SHOW_UPDATED_DATE: ${{ inputs.SHOW_UPDATED_DATE }}
+          SHOW_TOTAL_CODE_TIME: ${{ inputs.SHOW_TOTAL_CODE_TIME }}
+          COMMIT_BY_ME: ${{ inputs.COMMIT_BY_ME }}
+          COMMIT_MESSAGE: ${{ inputs.COMMIT_MESSAGE }}
+          COMMIT_USERNAME: ${{ inputs.COMMIT_USERNAME }}
+          COMMIT_EMAIL: ${{ inputs.COMMIT_EMAIL }}
+          COMMIT_SINGLE: ${{ inputs.COMMIT_SINGLE }}
+          LOCALE: ${{ inputs.LOCALE }}
+          UPDATED_DATE_FORMAT: ${{ inputs.UPDATED_DATE_FORMAT }}
+          IGNORED_REPOS: ${{ inputs.IGNORED_REPOS }}
+          SYMBOL_VERSION: ${{ inputs.SYMBOL_VERSION }}
+          DEBUG_LOGGING: ${{ inputs.DEBUG_LOGGING }}
 
 branding:
   icon: "activity"
