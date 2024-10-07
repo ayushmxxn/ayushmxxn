@@ -1,4 +1,3 @@
-![Profile Banner](https://i.ibb.co/PxmDbTv/1500x500.jpg)
 ## 🏆 My Development Stats
 
 <!--START_SECTION:waka-->
