@@ -24,17 +24,16 @@ Windows                  8 hrs 52 mins       ███████████�
 # Skills
 
 <div align="center">
-  <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
-  <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
-  <img align="top" alt="Webpack" width="40px" src="https://skillicons.dev/icons?i=webpack" />
-  <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img align="top" alt="Remix" width="40px" src="https://skillicons.dev/icons?i=remix" />
-  <img align="top" alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=nuxt" />
-  <img align="top" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
-  <img align="top" alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
-  <img align="top" alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
-  <img align="top" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />
-  <img align="top" alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=html" />
+  <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=css" />
+  <img align="top" alt="Webpack" width="40px" src="https://skillicons.dev/icons?i=js" />
+  <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
+  <img align="top" alt="Remix" width="40px" src="https://skillicons.dev/icons?i=react" />
+  <img align="top" alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
+  <img align="top" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=typescript" />
+  <img align="top" alt="Express" width="40px" src="https://skillicons.dev/icons?i=framermotion" />
+  <img align="top" alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=git" />
+  <img align="top" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=github" />
   <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
 </div>
 
