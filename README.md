@@ -9,34 +9,19 @@
 
 ```text
 💬 Programming Languages: 
-C                        8 hrs 5 mins        ███████████████████████░░   91.22 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C                        7 hrs 54 mins       ███████████████████████░░   91.03 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
-## Skills
-<div align="center">
-  <img align="top" alt="HTML" width="40px" src="https://skillicons.dev/icons?i=html" />
-  <img align="top" alt="CSS" width="40px" src="https://skillicons.dev/icons?i=css" />
-  <img align="top" alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js" />
-  <img align="top" alt="Tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
-  <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
-  <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=typescript" />
-  <img align="top" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git" />
-  <img align="top" alt="Github" width="40px" src="https://skillicons.dev/icons?i=github" />
-  <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
-</div>
 
-<br>
-
- Last Updated on 07/10/2024 18:44:23 UTC
+ Last Updated on 08/10/2024 18:43:42 UTC
 <!--END_SECTION:waka-->
