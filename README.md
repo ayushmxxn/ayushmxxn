@@ -21,7 +21,12 @@ VS Code                  8 hrs 52 mins       ███████████�
 💻 Operating System: 
 Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
  Last Updated on 07/10/2024 18:44:23 UTC
 <!--END_SECTION:waka-->
