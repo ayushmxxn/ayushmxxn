@@ -36,6 +36,14 @@ Windows                  8 hrs 52 mins       ███████████�
   <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
 </div>
 
+# Tools
+
+<div align="center">
+  <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=blender" />
+  <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=unreal" />
+  <img align="top" alt="Webpack" width="40px" src="https://skillicons.dev/icons?i=notion" />
+</div>
+
 
  Last Updated on 07/10/2024 18:44:23 UTC
 <!--END_SECTION:waka-->
