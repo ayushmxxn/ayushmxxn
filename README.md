@@ -22,7 +22,7 @@ VS Code                  8 hrs 52 mins       ███████████�
 Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
-
+#Skills
 <div align="center">
   <img align="top" alt="HTML" width="40px" src="https://skillicons.dev/icons?i=html" />
   <img align="top" alt="CSS" width="40px" src="https://skillicons.dev/icons?i=css" />
