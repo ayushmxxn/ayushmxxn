@@ -22,8 +22,6 @@ VS Code                  8 hrs 52 mins       ███████████�
 Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
-<img align="right" alt="My Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmxxn&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
-# Skills
 
 <div align="center">
   <img align="top" alt="HTML" width="40px" src="https://skillicons.dev/icons?i=html" />
