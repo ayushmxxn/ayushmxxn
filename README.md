@@ -26,7 +26,7 @@ Windows                  8 hrs 41 mins       ███████████�
  Last Updated on 08/10/2024 18:43:42 UTC
 <!--END_SECTION:waka-->
 
-# Skills
+## Skills
 
 <div align="center">
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=html" />
