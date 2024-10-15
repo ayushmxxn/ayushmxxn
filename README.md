@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,7 +23,7 @@ Windows                  10 hrs 8 mins       ███████████�
 ```
 
 
- Last Updated on 14/10/2024 18:45:08 UTC
+ Last Updated on 15/10/2024 18:45:52 UTC
 <!--END_SECTION:waka-->
 
 ## Skills
