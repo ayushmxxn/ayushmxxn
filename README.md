@@ -36,6 +36,7 @@ Windows                  11 hrs 54 mins      ███████████�
   <img align="top" alt="Remix" width="40px" src="https://skillicons.dev/icons?i=react" />
   <img align="top" alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
   <img align="top" alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=typescript" />
+  <img align="top" alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=vite" />
   <img align="top" alt="Express" width="40px" src="https://skillicons.dev/icons?i=git" />
   <img align="top" alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=github" />
   <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
