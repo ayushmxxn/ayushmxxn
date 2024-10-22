@@ -1,29 +1,10 @@
 ## 🏆 My Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2022%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.5%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.18 % 
-JavaScript               4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-HTML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 54 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 21/10/2024 18:45:56 UTC
+ Last Updated on 22/10/2024 18:45:18 UTC
 <!--END_SECTION:waka-->
 
 ## Skills
