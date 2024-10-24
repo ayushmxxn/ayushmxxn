@@ -1,4 +1,4 @@
-## 🏆 My Development Stats
+## My Development Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2033%20mins-blue)
