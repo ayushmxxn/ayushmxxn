@@ -29,9 +29,6 @@ Windows                  3 hrs 18 mins       ███████████�
 ## Skills
 
 <div align="center">
-  <img align="top" alt="HTML" width="40px" src="https://skillicons.dev/icons?i=html" />
-  <img align="top" alt="CSS" width="40px" src="https://skillicons.dev/icons?i=css" />
-  <img align="top" alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js" />
   <img align="top" alt="Tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
   <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=vite" />
