@@ -1,31 +1,4 @@
 ![Banner](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
-## My Development Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%203%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.6%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        ██████████████████████░░░   87.28 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/11/2024 18:46:32 UTC
-<!--END_SECTION:waka-->
 
 ## Skills
 
