@@ -1,3 +1,4 @@
+![Banner](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
 ## My Development Stats
 
 <!--START_SECTION:waka-->
