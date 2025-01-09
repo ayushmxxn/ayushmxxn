@@ -1,5 +1,3 @@
-![Banner](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
-
 Hi, I’m an self-taught frontend developer based in India, New Delhi.
 
 I mostly work with frontend web development, designing user interfaces and improving user experience. 
