@@ -8,7 +8,5 @@
   <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=vite" />
   <img align="top" alt="Tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
   <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=typescript" />
-  <img align="top" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git" />
-  <img align="top" alt="Github" width="40px" src="https://skillicons.dev/icons?i=github" />
   <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
 </div>
