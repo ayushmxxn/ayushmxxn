@@ -1,4 +1,5 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/990615374326280273Message=Learning%20FullStack%20Development%20...)](https://discord.com/users/990615374326280273)
+[![Discord Presence](https://lanyard.cnrad.dev/api/990615374326280273?status=Learning%20FullStack%20Development%20...)](https://discord.com/users/990615374326280273)
+
 
 
 ## Skills
