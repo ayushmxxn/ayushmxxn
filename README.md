@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/990615374326280273)](https://discord.com/users/990615374326280273)
 
 ## Skills
