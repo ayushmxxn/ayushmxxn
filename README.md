@@ -1,5 +1,4 @@
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/990615374326280273?theme=dark&bg=809ecf&animated=false&hideDiscrim=true)](https://discord.com/users/990615374326280273)
+[![Discord Presence](https://lanyard.cnrad.dev/api/990615374326280273)](https://discord.com/users/990615374326280273)
 
 
 ## Skills
