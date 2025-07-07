@@ -2,7 +2,7 @@
   <a href="https://ayushmxxn.com/" target="_blank" style="text-decoration: none; color: inherit;">ayushmxxn.com</a>
 </div>
 
-<hr style="border: 0.5px solid #ccc;">
+<hr style="border: 0.2px solid #ccc;">
 
 <div align="center">
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
