@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co/stDzrDH/20241115-070314.jpg)
+![Banner Image](https://i.ibb.co/YFGgF3z9/1500x500-5.jpg)
 
 
 
