@@ -2,7 +2,7 @@
   <a href="https://ayushmxxn.com/" target="_blank" style="text-decoration: none; color: inherit;">ayushmxxn.com</a>
 </div>
 
-## Skills
+---
 
 <div align="center">
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
