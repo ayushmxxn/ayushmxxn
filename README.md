@@ -13,6 +13,6 @@
   <img align="top" alt="Node.js" width="40px" src="https://skillicons.dev/icons?i=nodejs" />
   <img align="top" alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
   <img align="top" alt="MongoDB" width="40px" src="https://skillicons.dev/icons?i=mongo" />
-  <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
+ 
 
 </div>
