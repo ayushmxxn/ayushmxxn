@@ -8,7 +8,6 @@ Technologies I have worked with:
 <img alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
 <img alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
 <img alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts" />
-<img alt="Motion" width="40px" src="https://i.postimg.cc/vBSyv11n/framer-motion-logo.png" />
 <img alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
 <img alt="Vite" width="40px" src="https://skillicons.dev/icons?i=vite" />
 <img alt="Supabase" width="40px" src="https://skillicons.dev/icons?i=supabase" />
