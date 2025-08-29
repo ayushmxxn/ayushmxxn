@@ -1,4 +1,3 @@
-## Coding Stats
 ![WakaTime Leaderboard Stats](https://i.postimg.cc/4N4sF8gf/wakatimeleaderboardstats-1.jpg)
 
 ## Tech Stack
