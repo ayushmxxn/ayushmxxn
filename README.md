@@ -11,7 +11,6 @@ Here are some of the technologies I work with:
   <img alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
   <img alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts" />
   <img alt="Motion" width="40px" src="https://i.postimg.cc/9fMNYLyx/framer-motion-logo.png" />
-  <img alt="GSAP" width="35px" src="https://cdn.prod.website-files.com/63525cfd75ad4b289f410ca9/663ae758ce75394c75eec046_GSAP.svg" />
   <img alt="Framer" width="40px" src="https://i.postimg.cc/QdWv24FH/7578003-1.webp" />
   <img alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" />
   <img alt="Git" width="40px" src="https://skillicons.dev/icons?i=git" />
