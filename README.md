@@ -2,7 +2,6 @@
 ![WakaTime Leaderboard Stats](https://i.postimg.cc/4N4sF8gf/wakatimeleaderboardstats-1.jpg)
 
 ## Tech Stack
-Here are some of the technologies I work with:
 
 <div align="start">
   <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
@@ -23,4 +22,4 @@ Here are some of the technologies I work with:
 </div>
 
 ## Connect with Me
-Visit my portfolio: [ayushmxxn.com](https://ayushmxxn.com/)
+[ayushmxxn.com](https://ayushmxxn.com/)
