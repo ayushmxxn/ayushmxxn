@@ -12,7 +12,7 @@ Here are some of the technologies I work with:
   <img alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts" />
   <img alt="Framer Motion" width="40px" src="https://skillicons.dev/icons?i=motion" />
   <img alt="GSAP" width="40px" src="https://cdn.prod.website-files.com/63525cfd75ad4b289f410ca9/663ae758ce75394c75eec046_GSAP.svg" />
-  <img alt="Framer" width="40px" src="https://skillicons.dev/icons?i=framer" />
+  <img alt="Framer" width="40px" src="https://i.postimg.cc/kGpKv5ch/black-mark.png" />
   <img alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" />
   <img alt="Git" width="40px" src="https://skillicons.dev/icons?i=git" />
   <img alt="Python" width="40px" src="https://skillicons.dev/icons?i=python" />
