@@ -1,7 +1,7 @@
 ![WakaTime Leaderboard Stats](https://i.postimg.cc/4N4sF8gf/wakatimeleaderboardstats-1.jpg)
 
 ## Tech Stack
-Here are some of the technologies I work with:
+Here are the technologies I have worked with:
 
 <div align="start">
   <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
