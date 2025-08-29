@@ -2,14 +2,12 @@
 ![WakaTime Leaderboard Stats](https://i.postimg.cc/4N4sF8gf/wakatimeleaderboardstats-1.jpg)
 
 ## Tech Stack
+Here are some of the technologies I work with:
 
-<div align="start">
+<div align="center">
   <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
   <img alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
   <img alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
-  <img alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />
-  <img alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" />
   <img alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
   <img alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
   <img alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts" />
@@ -22,4 +20,4 @@
 </div>
 
 ## Connect with Me
-[ayushmxxn.com](https://ayushmxxn.com/)
+Visit my portfolio: [ayushmxxn.com](https://ayushmxxn.com/)
