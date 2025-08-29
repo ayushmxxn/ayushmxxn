@@ -6,12 +6,7 @@ Here are some of the technologies I work with:
 
 <div align="center">
   <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
-  <img alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
-  <img alt="Webpack" width="40px" src="https://skillicons.dev/icons?i=webpack" />
   <img alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img alt="Remix" width="40px" src="https://skillicons.dev/icons?i=remix" />
-  <img alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=nuxt" />
-  <img alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
   <img alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
   <img alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
   <img alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />
