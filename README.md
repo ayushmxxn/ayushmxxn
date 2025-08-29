@@ -4,7 +4,7 @@
 ## Tech Stack
 Here are some of the technologies I work with:
 
-<div align="center">
+<div align="start">
   <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
   <img alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
   <img alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
