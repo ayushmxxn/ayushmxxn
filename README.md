@@ -4,7 +4,28 @@
 ## Tech Stack
 Here are some of the technologies I work with:
 
-![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Framer Motion](https://skillicons.dev/icons?i=motion) ![GSAP](https://skillicons.dev/icons?i=gsap) ![Framer](https://skillicons.dev/icons?i=framer) ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git) ![Python](https://skillicons.dev/icons?i=python)
+<div align="center">
+  <img alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
+  <img alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
+  <img alt="Webpack" width="40px" src="https://skillicons.dev/icons?i=webpack" />
+  <img alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
+  <img alt="Remix" width="40px" src="https://skillicons.dev/icons?i=remix" />
+  <img alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=nuxt" />
+  <img alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
+  <img alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
+  <img alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
+  <img alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />
+  <img alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" />
+  <img alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
+  <img alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
+  <img alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="Framer Motion" width="40px" src="https://skillicons.dev/icons?i=motion" />
+  <img alt="GSAP" width="40px" src="https://skillicons.dev/icons?i=gsap" />
+  <img alt="Framer" width="40px" src="https://skillicons.dev/icons?i=framer" />
+  <img alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" />
+  <img alt="Git" width="40px" src="https://skillicons.dev/icons?i=git" />
+  <img alt="Python" width="40px" src="https://skillicons.dev/icons?i=python" />
+</div>
 
 ## Connect with Me
 Visit my portfolio: [ayushmxxn.com](https://ayushmxxn.com/)
