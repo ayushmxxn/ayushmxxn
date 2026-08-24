@@ -32,8 +32,3 @@
   </tbody>
 </table>
 
-<img
-  src="https://raw.githubusercontent.com/ayushmxxn/ayushmxxn/output/github-snake.svg"
-  width="100%"
-  alt="GitHub contribution snake"
-/>
