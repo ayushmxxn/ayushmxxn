@@ -34,8 +34,6 @@
 
 <strong>Coding</strong>
 
-<br><br>
-
 <img src="https://raw.githubusercontent.com/ayushmxxn/ayushmxxn/main/assets/wakatime.svg" width="230" alt="Coding time and daily average">
 
 </td>
