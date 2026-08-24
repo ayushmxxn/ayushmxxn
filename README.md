@@ -19,4 +19,3 @@
   width="100%"
   alt="GitHub contribution snake"
 />
-
