@@ -6,20 +6,24 @@
   <a href="https://discord.com/invite/kzk6uWey3g">Discord community</a>
 </p>
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
+  <thead>
+    <tr style="background-color: #161b22;">
+      <th align="center" width="50%" style="border: 1px solid #30363d; padding: 10px;">Code</th>
+      <th align="center" width="20%" style="border: 1px solid #30363d; padding: 10px;">Design</th>
+      <th align="center" width="30%" style="border: 1px solid #30363d; padding: 10px;">AI</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="50%">
-        <strong>Code</strong><br /><br />
+      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 12px;">
         <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="32" />
       </td>
-      <td align="center" valign="top" width="20%">
-        <strong>Design</strong><br /><br />
+      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 12px;">
         <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" />
         <img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="32" height="32" />
       </td>
-      <td align="center" valign="top" width="30%">
-        <strong>AI</strong><br /><br />
+      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 12px;">
         <img src="https://cdn.simpleicons.org/cursor" width="32" height="32" />
         <img src="https://cdn.simpleicons.org/claude" width="32" height="32" />
         <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="32" height="32" />
