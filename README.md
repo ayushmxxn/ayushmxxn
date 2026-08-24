@@ -9,7 +9,7 @@
 <table width="100%">
   <tbody>
     <tr align="center">
-      <td width="33%">
+      <td width="50%" style="white-space:nowrap;">
         <strong>Code</strong><br /><br />
         <img src="https://skillicons.dev/icons?i=ts" width="32" height="32" />
         <img src="https://skillicons.dev/icons?i=js" width="32" height="32" />
@@ -19,12 +19,12 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" />
         <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" />
       </td>
-      <td width="33%">
+      <td width="20%" style="white-space:nowrap;">
         <strong>Design</strong><br /><br />
         <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" />
         <img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="32" height="32" />
       </td>
-      <td width="33%">
+      <td width="30%" style="white-space:nowrap;">
         <strong>AI</strong><br /><br />
         <img src="https://cdn.simpleicons.org/cursor" width="32" height="32" />
         <img src="https://cdn.simpleicons.org/claude" width="32" height="32" />
