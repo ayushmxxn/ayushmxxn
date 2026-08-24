@@ -6,29 +6,23 @@
   <a href="https://discord.com/invite/kzk6uWey3g">Discord community</a>
 </p>
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Category</th>
-      <th align="left">Tools</th>
-    </tr>
-  </thead>
+<table width="100%">
   <tbody>
     <tr>
-      <td><strong>Code</strong></td>
+      <td width="18%"><strong>Code</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="32" />
       </td>
     </tr>
     <tr>
-      <td><strong>Design</strong></td>
+      <td width="18%"><strong>Design</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=figma" height="32" />
         <img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="32" height="32" />
       </td>
     </tr>
     <tr>
-      <td><strong>AI</strong></td>
+      <td width="18%"><strong>AI</strong></td>
       <td>
         <img src="https://cdn.simpleicons.org/cursor" width="32" height="32" />
         <img src="https://cdn.simpleicons.org/claude" width="32" height="32" />
