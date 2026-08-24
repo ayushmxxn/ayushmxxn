@@ -11,7 +11,8 @@
 <table>
   <tr>
     <td valign="top" width="70%">
-      <strong>Tech Stack</strong><br>
+      <strong>Tech Stack</strong>
+      <br><br>
       <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,supabase" height="30" alt="Tech stack">
       &nbsp;
       <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Figma">
@@ -27,7 +28,8 @@
       <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/antigravity-color.svg" width="28" height="28" alt="Antigravity">
     </td>
     <td valign="top" width="30%">
-      <strong>Coding</strong><br>
+      <strong>Coding</strong>
+      <br><br>
       <img src="https://raw.githubusercontent.com/ayushmxxn/ayushmxxn/main/assets/wakatime.svg" width="230" alt="Coding time and daily average">
     </td>
   </tr>
