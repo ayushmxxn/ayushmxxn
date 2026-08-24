@@ -1,8 +1,8 @@
 <p>
-  <img src="https://i.postimg.cc/cHYdtJGw/Chat-GPT-Image-Aug-24-2026-09-00-47-AM.png" width="16" height="16" />
+  <img src="https://i.postimg.cc/cHYdtJGw/Chat-GPT-Image-Aug-24-2026-09-00-47-AM.png" width="16" height="16" style="vertical-align: middle;" />
   <a href="https://ayushmxxn.com">ayushmxxn.com</a>
   ·
-  <img src="https://cdn.simpleicons.org/discord" width="16" height="16" />
+  <img src="https://cdn.simpleicons.org/discord" width="16" height="16" style="vertical-align: middle;" />
   <a href="https://discord.com/invite/kzk6uWey3g">Discord community</a>
 </p>
 
@@ -16,8 +16,14 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="32" />
+      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 12px; white-space: nowrap;">
+        <img src="https://skillicons.dev/icons?i=ts" width="32" height="32" />
+        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" />
+        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" />
+        <img src="https://skillicons.dev/icons?i=astro" width="32" height="32" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" />
       </td>
       <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 12px;">
         <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" />
