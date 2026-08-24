@@ -6,7 +6,7 @@
   <a href="https://discord.com/invite/kzk6uWey3g">Discord community</a>
 </p>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; table-layout: fixed;">
+<table width="100%" style="width: 100%; border-collapse: collapse; border: 1px solid #30363d; table-layout: fixed;">
   <thead>
     <tr style="background-color: #161b22;">
       <th align="center" width="55%" style="border: 1px solid #30363d; padding: 10px;">Code</th>
