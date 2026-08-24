@@ -18,9 +18,9 @@
   <a href="https://discord.com/invite/kzk6uWey3g">Discord community</a>
 </p>
 <br>
-<table>
+<table border="1" cellpadding="12" cellspacing="0" style="border-collapse: collapse; border: 1px solid #30363d;">
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; border: 1px solid #30363d;">
       <strong>Tech Stack</strong>
       <br><br>
       <img
@@ -71,8 +71,7 @@
         alt="Antigravity"
       />
     </td>
-    <td style="width: 40px;"></td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; border: 1px solid #30363d;">
       <strong>Coding</strong>
       <br><br>
       <img
