@@ -8,11 +8,9 @@
 
 <br />
 
-<h3 align="left">Tech Stack</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="30" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" width="30" height="30" />&nbsp;<img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="22" height="22" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cursor" width="30" height="30" />&nbsp;<img src="https://cdn.simpleicons.org/claude" width="30" height="30" />&nbsp;<img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="30" height="30" />
-</p>
+| Tech Stack |
+|:---|
+| <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="30" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" width="30" height="30" />&nbsp;<img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="22" height="22" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cursor" width="30" height="30" />&nbsp;<img src="https://cdn.simpleicons.org/claude" width="30" height="30" />&nbsp;<img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="30" height="30" /> |
 
 <br />
 
