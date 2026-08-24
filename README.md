@@ -14,7 +14,6 @@
 
 <strong>Tech Stack</strong>
 
-<br></br>
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,supabase" height="30" alt="Tech stack">
 &nbsp;
