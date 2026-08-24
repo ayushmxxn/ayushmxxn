@@ -7,5 +7,5 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,figma" width="280" />
 </p>
