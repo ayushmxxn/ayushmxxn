@@ -12,8 +12,7 @@
 <tr>
 <td valign="top" width="70%">
 
-<strong>Tech Stack</strong>
-
+<strong>Tech Stack</strong><br><br>
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs,supabase" height="30" alt="Tech stack">
 &nbsp;
@@ -33,9 +32,9 @@
 
 <td valign="top" width="30%">
 
-<strong>Coding</strong>
+<strong>Coding</strong><br><br>
 
-<img src="https://raw.githubusercontent.com/ayushmxxn/ayushmxxn/main/assets/wakatime.svg" width="230" alt="Coding time and daily average">
+<img src="./assets/wakatime.svg" width="230" height="48" alt="Coding time and daily average">
 
 </td>
 </tr>
