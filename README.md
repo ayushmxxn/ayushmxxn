@@ -6,24 +6,26 @@
   <a href="https://discord.com/invite/kzk6uWey3g">Discord community</a>
 </p>
 
-<table width="100%" style="width: 100%; border-collapse: collapse; border: 1px solid #30363d; table-layout: fixed;">
-  <thead>
-    <tr style="background-color: #161b22;">
-      <th align="center" width="55%" style="border: 1px solid #30363d; padding: 10px;">Code</th>
-      <th align="center" width="15%" style="border: 1px solid #30363d; padding: 10px;">Design</th>
-      <th align="center" width="30%" style="border: 1px solid #30363d; padding: 10px;">AI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="28" />
-      </td>
-      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 10px; white-space: nowrap;"><img src="https://skillicons.dev/icons?i=figma" width="28" height="28" /><img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="28" height="28" /></td>
-      <td align="center" valign="middle" style="border: 1px solid #30363d; padding: 10px; white-space: nowrap;"><img src="https://cdn.simpleicons.org/cursor" width="28" height="28" /><img src="https://cdn.simpleicons.org/claude" width="28" height="28" /><img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="28" height="28" /></td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; width: 100%; border: 1px solid #30363d; border-collapse: collapse;">
+  <div style="flex: 5.5; border-right: 1px solid #30363d;">
+    <div style="background-color: #161b22; padding: 10px; text-align: center; font-weight: bold; border-bottom: 1px solid #30363d;">Code</div>
+    <div style="padding: 10px; text-align: center;">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,tailwind,nodejs" height="28" />
+    </div>
+  </div>
+  <div style="flex: 1.5; border-right: 1px solid #30363d;">
+    <div style="background-color: #161b22; padding: 10px; text-align: center; font-weight: bold; border-bottom: 1px solid #30363d;">Design</div>
+    <div style="padding: 10px; text-align: center; white-space: nowrap;">
+      <img src="https://skillicons.dev/icons?i=figma" width="28" height="28" /><img src="https://api.iconify.design/simple-icons/framer.svg?color=%23ffffff" width="28" height="28" />
+    </div>
+  </div>
+  <div style="flex: 3;">
+    <div style="background-color: #161b22; padding: 10px; text-align: center; font-weight: bold; border-bottom: 1px solid #30363d;">AI</div>
+    <div style="padding: 10px; text-align: center; white-space: nowrap;">
+      <img src="https://cdn.simpleicons.org/cursor" width="28" height="28" /><img src="https://cdn.simpleicons.org/claude" width="28" height="28" /><img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="28" height="28" />
+    </div>
+  </div>
+</div>
 
 <br />
 
