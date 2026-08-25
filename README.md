@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.postimg.cc/cHYdtJGw/Chat-GPT-Image-Aug-24-2026-09-00-47-AM.png" width="16" height="16" alt="">
+  <img src="https://i.postimg.cc/T3rh6PhL/my-avatar.png" width="16" height="16" alt="">
   <a href="https://ayushmxxn.com">ayushmxxn.com</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/discord" width="16" height="16" alt="Discord">
