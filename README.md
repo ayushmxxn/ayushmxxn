@@ -24,8 +24,6 @@
       <img src="https://cdn.simpleicons.org/claude" width="28" height="28" alt="Claude">
       &nbsp;
       <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="28" height="28" alt="OpenAI">
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/antigravity-color.svg" width="28" height="28" alt="Antigravity">
     </td>
     <td valign="top" width="30%">
       <strong>Coding</strong>
